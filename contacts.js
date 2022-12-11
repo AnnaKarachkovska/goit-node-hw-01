@@ -70,12 +70,3 @@ module.exports = {
     removeContact,
     addContact
 }
-
-
-
-// {
-//   "id": "3",
-//   "name": "Kennedy Lane",
-//   "email": "mattis.Cras@nonenimMauris.net",
-//   "phone": "(542) 451-7038"
-// },
